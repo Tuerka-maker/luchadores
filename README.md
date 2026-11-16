@@ -1,6 +1,6 @@
 # TUERKA · rey
 
-Misiones para el Núcleo TUERKA (micro:bit V2). Se abren desde el QR de cada tarjeta.
+Misiones para el Núcleo TUERKA (micro:bit V2). Se abren en el computador desde la página de misiones (index.html).
 
 - m2: https://makecode.microbit.org/?lang=es#tutorial:https://github.com/Tuerka-maker/luchadores/m2
 - m3: https://makecode.microbit.org/?lang=es#tutorial:https://github.com/Tuerka-maker/luchadores/m3
