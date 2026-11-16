@@ -1,0 +1,20 @@
+{
+    "name": "tuerka-rey",
+    "version": "0.0.1",
+    "description": "TUERKA: bloques y misiones del juego rey para el Núcleo (micro:bit V2)",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "main.ts",
+        "custom.ts",
+        "README.md",
+        "m2.md",
+        "m3.md",
+        "m5.md"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
